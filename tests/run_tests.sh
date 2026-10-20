@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Dependency-free tests: build fake filesystem roots and assert on artemis output.
-set -uo pipefail
 # SC2016: the single-quoted bash -c bodies are intentional; $0/$1 are passed as arguments.
 # shellcheck disable=SC2016
+set -uo pipefail
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ARTEMIS="$HERE/../src/artemis.sh"
