@@ -51,7 +51,7 @@ See [docs/CHECKLIST.md](docs/CHECKLIST.md).
 
 ## What I learned
 
-_Fill in as the project grows: what broke, what surprised me._
+_CI stands for continuous integration._
 
 ## License
 
