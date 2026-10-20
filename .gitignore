@@ -1,0 +1,10 @@
+.env
+.env.*
+*.pem
+*.key
+*.log
+reports/
+node_modules/
+.claude/settings.local.json
+.DS_Store
+*.swp
